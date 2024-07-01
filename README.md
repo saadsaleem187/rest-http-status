@@ -1,4 +1,4 @@
-# Status
+# rest-http-status
 
 A simple Node.js module that provides HTTP status, inspired by Django Rest Framework's status codes.
 
@@ -43,7 +43,7 @@ console.log(status.HTTP_500_INTERNAL_SERVER_ERROR); // 500
 | HTTP_102_PROCESSING                       | 102  |
 | HTTP_103_EARLY_HINTS                      | 103  |
 
-## Successful - 2x
+## Successful - 2xx
 
 | Constant                                  | Code |
 | ----------------------------------------- | ---- |

@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saadsaleem187/rest-http-status.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saadsaleem187/rest-http-status/issues"
+  },
+  "homepage": "https://github.com/saadsaleem187/rest-http-status#readme",
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "http",
+    "status",
+    "codes",
+    "javascript"
+  ],
+  "author": "Saad Saleem",
+  "license": "MIT"
 }
